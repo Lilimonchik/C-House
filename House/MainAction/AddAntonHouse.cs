@@ -203,10 +203,7 @@ namespace House.MainAction
                 Console.WriteLine("Well done!");
             }
         }
-        public void Output()
-        {
-            Console.WriteLine("{0}", AntonHouse);
-        }
+    
     }
 }
 

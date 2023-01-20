@@ -7,7 +7,7 @@ namespace House.MainAction
 		{
 			Console.WriteLine("Okey, now we will be boy's houses!");
 			Console.WriteLine("Kitchen:");
-			Console.WriteLine("Table size/hieght: "+ );
+			Console.WriteLine("Table size/hieght: ");
 		}
 	}
 }

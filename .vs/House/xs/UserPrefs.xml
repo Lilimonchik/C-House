@@ -1,23 +1,23 @@
 ﻿<Properties StartupConfiguration="{25DC4304-7F2F-4992-949E-1AD1F2786A4F}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="House/MainAction/AddOlehHouse.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="House/MainAction/AddAntonHouse.cs">
     <Files>
-      <File FileName="House/MainAction/AddAndrewHouse.cs" Line="210" Column="10" />
-      <File FileName="House/MainAction/StartAction.cs" Line="37" Column="1" />
-      <File FileName="House/MainAction/AddAntonHouse.cs" Line="208" Column="50" />
-      <File FileName="House/MainAction/AddOlehHouse.cs" Line="144" Column="21" />
-      <File FileName="House/Program.cs" Line="1" Column="1" />
-      <File FileName="House/MainAction/FinishAction.cs" Line="10" Column="45" />
+      <File FileName="House/MainAction/AddAndrewHouse.cs" />
+      <File FileName="House/MainAction/StartAction.cs" />
+      <File FileName="House/MainAction/AddAntonHouse.cs" Line="22" Column="1" />
+      <File FileName="House/MainAction/AddOlehHouse.cs" />
+      <File FileName="House/Program.cs" />
+      <File FileName="House/MainAction/FinishAction.cs" />
+      <File FileName="House/RoomOfHouse/Kitchen.cs" />
+      <File FileName="House/BoysHouse/HouseForAll.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="House" expanded="True">
             <Node name="House" expanded="True">
-              <Node name="MainAction" expanded="True">
-                <Node name="AddOlehHouse.cs" selected="True" />
-              </Node>
+              <Node name="BoysHouse" expanded="True" />
+              <Node name="MainAction" expanded="True" />
               <Node name="RoomOfHouse" expanded="True" />
             </Node>
           </Node>
@@ -25,9 +25,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.House PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.House PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
